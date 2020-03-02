@@ -495,6 +495,7 @@ node_modules/@framer/benjamin.icon-generator/code/Icon.tsx
 node_modules/@framer/benjamin.icon-generator/build/vendors.js
 node_modules/@framer/benjamin.icon-generator/build/index.js
 node_modules/@framer/benjamin.icon-generator/README.md
+design/images/zXttUceFPkT5uDEw7xuhh3XGk.png
 design/images/y1djeHXWeBBD6qAiwBi3Pg4KgI.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/tuzzFWgLKBxSNMBMpKTZ0Hco.png
