@@ -502,11 +502,9 @@ design/images/tuzzFWgLKBxSNMBMpKTZ0Hco.png
 design/images/tCzELdfCjc5J3IxMZ0JQdlUI5UU.png
 design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
 design/images/RuzJrBOvHyR4JojwWOsNQehB4g.png
-design/images/RiRy7vWlUiC69QkLyeDwC9LhTDI.png
 design/images/Mn0AWewKaAMdJ9bVSVSriN0obSg.png
 design/images/GEpHx9BVWiZLgufoV0IU1Rwsw4g.png
 design/images/DblZMJ7JQeu853rB2zLeEyazS74.png
-design/images/CKr9EauceFEXTOKcBRSre45P9w.png
 design/images/1HWTHexd5tQ7cYD5ZJEHmFe7h0.png
 design/images/0qcXcPC0NbkEyGSPjNHgYi56n8.jpg
 build/vendors.js
