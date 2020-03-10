@@ -2334,7 +2334,6 @@ design/images/y1djeHXWeBBD6qAiwBi3Pg4KgI.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/wZGFd6YHGXvfrA1RdDqSCm0gEhc.png
 design/images/s7bH8zbMlE0MVoTY5JDtDaQK4Q.png
-design/images/rfrfY079IJuiowEbKTWIWcXOo8.png
 design/images/pFExntimsXM7Z6aIiXATPSKQCkU.png
 design/images/p7KGsaf7JPuenqCetvrzWMKBLs.png
 design/images/kyMmNv30IfMizF56Ieh7DCJQ8g.png
