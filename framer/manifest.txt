@@ -2331,6 +2331,7 @@ node_modules/@framer/benjamin.icon-generator/README.md
 design/images/zlWg6SWf1s9OKVAQdifh4naodSY.png
 design/images/zXttUceFPkT5uDEw7xuhh3XGk.png
 design/images/y1djeHXWeBBD6qAiwBi3Pg4KgI.png
+design/images/wyH0QwjXMAEAiHEspoGChSGFtAw.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/wZGFd6YHGXvfrA1RdDqSCm0gEhc.png
 design/images/s7bH8zbMlE0MVoTY5JDtDaQK4Q.png
@@ -2338,6 +2339,7 @@ design/images/pFExntimsXM7Z6aIiXATPSKQCkU.png
 design/images/p7KGsaf7JPuenqCetvrzWMKBLs.png
 design/images/kyMmNv30IfMizF56Ieh7DCJQ8g.png
 design/images/hS3tLYCd1gEBzMEYe7LPZccnbNo.png
+design/images/fSuJkdSklCkoM2FnuWhkfwyvI.png
 design/images/fOGsz9T1GJoTzqzvAAvWPxxjGU.png
 design/images/eZUeXsSAhFXiMe3ir6W0gJRNRg.jpg
 design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
